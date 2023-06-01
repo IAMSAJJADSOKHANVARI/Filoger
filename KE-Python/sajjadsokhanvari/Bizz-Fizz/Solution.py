@@ -21,4 +21,3 @@ def fizz_buzz(n):
 
     # Return the results list
     return results
-a=[i for i in range (1,10,2)]
